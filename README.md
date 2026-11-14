@@ -19,3 +19,9 @@ masters degree
 
 ## Contact
 Email: your-email@example.com
+## My Personal Introduction
+
+I am passionate about technology
+and learning new programming skills.
+
+My goal is to become a full-stack developer.
